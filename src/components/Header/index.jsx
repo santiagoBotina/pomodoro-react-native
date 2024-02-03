@@ -1,4 +1,3 @@
-import { memo } from "react";
 import { View, StyleSheet, TouchableOpacity, Text } from "react-native";
 
 const actions = ['Pomodoro', 'Short break', 'Break'];
